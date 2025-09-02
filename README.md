@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+BACKEND API
+<img width="1259" height="698" alt="API_1" src="https://github.com/user-attachments/assets/3421d04d-829a-4f18-999b-4602a8a83e9d" />
+<img width="1246" height="689" alt="API_2" src="https://github.com/user-attachments/assets/1f6d04cb-ba73-41a2-a3fd-5d7e86b91f7c" />
+
+FRONT END
+<img width="1256" height="693" alt="frontend_1" src="https://github.com/user-attachments/assets/9a1aca73-b98a-452b-b487-a31729e9689d" />
+<img width="1253" height="686" alt="frontend_2" src="https://github.com/user-attachments/assets/303830b0-afce-4cbb-9f99-c34ef1be1bce" />
+<img width="1255" height="539" alt="frontend_3" src="https://github.com/user-attachments/assets/046b393c-4dcb-4cbf-9dcd-db559dddade6" />
+<img width="1258" height="673" alt="FRONTEND_4" src="https://github.com/user-attachments/assets/b2e144d3-c979-4214-8ed5-065c93658602" />
+
+DATABASE
+
+<img width="1045" height="696" alt="DATABASE" src="https://github.com/user-attachments/assets/f36c3a28-741c-45d2-a1a7-8af39f957532" />
