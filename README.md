@@ -74,6 +74,12 @@ BACKEND API
 <img width="1259" height="698" alt="API_1" src="https://github.com/user-attachments/assets/3421d04d-829a-4f18-999b-4602a8a83e9d" />
 <img width="1246" height="689" alt="API_2" src="https://github.com/user-attachments/assets/1f6d04cb-ba73-41a2-a3fd-5d7e86b91f7c" />
 
+BACKEND EXAMPLE END-POINTS
+<img width="1220" height="653" alt="image" src="https://github.com/user-attachments/assets/9339b865-dc5a-40b6-8e07-13ff2b8ffe4e" />
+<img width="1226" height="650" alt="image" src="https://github.com/user-attachments/assets/31e77d0e-58c8-442a-98bf-effa180cc5e3" />
+
+
+
 FRONT END
 <img width="1256" height="693" alt="frontend_1" src="https://github.com/user-attachments/assets/9a1aca73-b98a-452b-b487-a31729e9689d" />
 <img width="1253" height="686" alt="frontend_2" src="https://github.com/user-attachments/assets/303830b0-afce-4cbb-9f99-c34ef1be1bce" />
