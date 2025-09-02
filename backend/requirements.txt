@@ -1,6 +1,19 @@
+
+
+
+
 fastapi==0.111.0
 uvicorn[standard]==0.30.0
 motor==3.4.0
+# these two help ensure prebuilt wheels on Render Free instances
+numpy==1.26.4
 pandas==2.2.3
+
 python-dotenv==1.0.1
 python-multipart==0.0.9
+
+# Needed if your Mongo URI is mongodb+srv:// (Atlas etc.)
+dnspython==2.6.1
+
+# only if you use the gunicorn start command
+# gunicorn==22.0.0
